@@ -1,4 +1,4 @@
-# av_car_infra — Variáveis de Ambiente
+# av_car_infra: Variáveis de Ambiente
 
 Pasta centralizada de configuração por ambiente do **AV-CAR**. Contém o arquivo `.env` com todas as variáveis usadas pela aplicação.
 
